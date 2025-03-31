@@ -1,6 +1,6 @@
 # 📊 **Banking Profitability Analysis: MLR on Sri Lankan Banks (2000-2020)**
 
-![image alt]()
+![image alt](https://github.com/rashmika-fdo/Regression_SL_Banking/blob/202ff5a38f2491267949188d2946cbf7a03e00f2/banking.jpg)
 
 
 ## 🏦 Project Overview
